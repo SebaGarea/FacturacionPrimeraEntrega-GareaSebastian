@@ -1,0 +1,16 @@
+2024-10-07 23:39:18.159164-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "PRODUCTOS" ya existe
+Table "PRODUCTOS" already exists; SQL statement:
+CREATE TABLE PRODUCTOS ( id INT, nombre VARCHAR(150) NOT NULL, descripcion VARCHAR(150) NOT NULL, precio INT NOT NULL, stock INT NOT NULL, categoria VARCHAR(20) ) [42101-224]
+2024-10-07 23:45:00.800604-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "PRODUCTOS" ya existe
+Table "PRODUCTOS" already exists; SQL statement:
+CREATE TABLE PRODUCTOS ( id INT, nombre VARCHAR(150) NOT NULL, descripcion VARCHAR(150) NOT NULL, precio INT NOT NULL, stock INT NOT NULL, categoria VARCHAR(20) ) [42101-224]
+2024-10-07 23:45:50.277449-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "PRODUCTOS" ya existe
+Table "PRODUCTOS" already exists; SQL statement:
+CREATE TABLE PRODUCTOS ( id INT, nombre VARCHAR(150) NOT NULL, descripcion VARCHAR(150) NOT NULL, precio INT NOT NULL, stock INT NOT NULL, categoria VARCHAR(20) ) [42101-224]
+2024-10-07 23:46:19.038374-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "PRODUCTOS" ya existe
+Table "PRODUCTOS" already exists; SQL statement:
+CREATE TABLE PRODUCTOS ( id INT, nombre VARCHAR(150) NOT NULL, descripcion VARCHAR(150) NOT NULL, precio INT NOT NULL, stock INT NOT NULL, categoria VARCHAR(20) ) [42101-224]
